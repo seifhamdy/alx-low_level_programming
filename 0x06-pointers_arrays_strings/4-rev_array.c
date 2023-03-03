@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * reverse_array - concatenates two strings
  * @a: array
